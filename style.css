@@ -1,3 +1,9 @@
 *{
-    color:goldenrod;
+    color:darkgoldenrod;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
