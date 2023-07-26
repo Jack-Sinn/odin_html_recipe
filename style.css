@@ -3,5 +3,13 @@
 }
 
 .main {
-    display:flex
+    background-color: wheat;
+}
+img{
+    object-fit: fill;
+    height: 400px;
+    width: 400px;
+}
+#subway_img{
+    width: fit-content;
 }
